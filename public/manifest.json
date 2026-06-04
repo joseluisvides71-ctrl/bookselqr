@@ -1,0 +1,17 @@
+{
+  "name": "CatálogoAI",
+  "short_name": "CatálogoAI",
+  "description": "Genera catálogos de productos con inteligencia artificial",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "https://019bfc42-b586-73bf-a595-3ece63003e59.mochausercontent.com/app-icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
